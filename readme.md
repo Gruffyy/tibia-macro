@@ -58,7 +58,7 @@ kill <PID>
 ## Troubleshooting
 Window Not Found: If the script fails to find the Tibia window, double-check the window class ("Tibia") in the get_window_id function. If you have multiple Tibia windows, make sure to focus the correct window before running the script.
 Wayland Compatibility: This script is specifically designed for Wayland. If you are using an X11 window manager, focus stealing could occur and you might need to adjust the window focus mechanism.
-Disclaimer
+## Disclaimer
 Use this script at your own peril! I've no clue if battle-eye detects it.  
 
 ## Contributing
