@@ -26,7 +26,7 @@ cd tibia-macro
 ```
 ## Make Executable:
 ```bash
-chmod +x tibia_macro.sh
+chmod +x macro.sh
 ```
 ## Configuration
 Open the Script:
@@ -46,7 +46,7 @@ key_presses=(
 Focus Tibia: Launch the Tibia client and ensure it is in focus.
 Run in Background: Execute the script in the background.
 ```bash
-./tibia_macro.sh &
+./macro.sh &
 
 Stop:
 Find the Process ID (PID):
