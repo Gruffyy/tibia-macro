@@ -15,9 +15,9 @@ This Bash script automates key presses in the Tibia game client on Linux systems
 ## Requirements
 
 - **xdotool:** Simulates keyboard and mouse input. Install with:
-  ```bash
-  sudo apt install xdotool
-
+```bash
+sudo apt install xdotool
+```
 ## Installation
 Clone the Repository:
 ```bash
