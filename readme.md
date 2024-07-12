@@ -50,7 +50,7 @@ Run in Background: Execute the script in the background.
 
 Stop:
 Find the Process ID (PID):
-ps aux | grep tibia_macro
+ps aux | grep macro
 Terminate:
 
 kill <PID> 
